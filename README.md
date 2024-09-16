@@ -1,5 +1,6 @@
 ### My Biography
 ## Hi I am ktx1
+https://kataokax1.gitbook.io/ktx-api/
 <Website Engineer & Discord Enthusiast?>
 3+ Years of Disccord Server Management Experience
 Timezone = GMT+8
